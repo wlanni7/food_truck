@@ -1,0 +1,34 @@
+body {
+  background-image: url("Images/DarkRedKidney.jpg");
+  color: white;
+  font-family: fantasy;
+  font-size: 32px;
+  font-weight: bolder;
+}
+#rightSidebar {
+  border-style: groove;
+  width: 400px;
+  box-sizing: border-box;
+  float: left;
+  background-color: white;
+}
+nav {
+  width: 25;
+  padding:15px;
+  margin:10px;
+  box-sizing: border-box;
+  float: left;
+  font-family: fantasy;
+}
+#wrapper {
+  width:867px;
+  margin:auto;
+}
+#header {
+width: 800px;
+float: left;
+
+}
+#topbar {
+	height:40px; padding:55px 25px 0 25px;
+}
